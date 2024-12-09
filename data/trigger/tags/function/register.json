@@ -1,0 +1,6 @@
+{
+	"values": [
+		"trigger_manager:register/",
+		"trigger_manager:register/set_auto_enable"
+	]
+}
